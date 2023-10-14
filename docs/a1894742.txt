@@ -10,3 +10,8 @@
 
 - Initial commit
 
+## [0.1.2] - 2023-10-15
+
+### Fixed
+
+- High severity bug fixed #21 'XXXXXXX' in file data/a1894742.txt
